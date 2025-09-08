@@ -13,4 +13,4 @@ def merge_files(base_name, output_file):
     print(f"Tüm parçalar birleştirildi -> {output_file}")
 
 if __name__ == "__main__":
-    merge_files("ti_cgt_armllvm_4.0.1.LTS_windows-x64_installer.zip", "ti_cgt_armllvm_4.0.1.LTS_windows-x64_installer.zip")
+    merge_files("sysconfig-1.25.0_4268-setup.zip", "sysconfig-1.25.0_4268-setup.zip")

@@ -18,4 +18,4 @@ def split_file(file_path, chunk_size_mb=90):
             part_num += 1
 
 if __name__ == "__main__":
-    split_file("ti_cgt_armllvm_4.0.1.LTS_windows-x64_installer.zip")  # buraya kendi dosya adını yaz
+    split_file("sysconfig-1.25.0_4268-setup.zip")  # buraya kendi dosya adını yaz
